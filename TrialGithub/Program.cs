@@ -16,7 +16,7 @@ namespace TrialGithub
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new LARealClase());
+            Application.Run(new Form2());
         }
     }
 }
